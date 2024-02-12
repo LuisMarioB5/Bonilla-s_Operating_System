@@ -1,0 +1,1 @@
+No elimines estas carpetas, ya que en la carpeta 'folder', se almacenan los folder que se crean en el escritorio.
